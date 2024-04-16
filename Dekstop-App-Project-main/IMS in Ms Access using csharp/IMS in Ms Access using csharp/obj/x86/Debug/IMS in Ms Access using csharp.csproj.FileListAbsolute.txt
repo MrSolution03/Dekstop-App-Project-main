@@ -1,0 +1,22 @@
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.frm_Home.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS in Ms Access using csharp.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\bin\Debug\IMS in Ms Access using csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\bin\Debug\IMS in Ms Access using csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS in Ms Access using csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS in Ms Access using csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_Home.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_categories.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_products.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_customers.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_Orders.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_sales_invoice.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.UC_user.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS_in_Ms_Access_using_csharp.frm_invoice.resources
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\bin\Debug\IMS in Ms Access using csharp.exe.config
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\bin\Debug\IMS.mdf
+c:\users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\bin\Debug\IMS_log.ldf
+C:\Users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\IMS in Ms Access using csharp.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\RdlCompile.cache
+C:\Users\hp\documents\visual studio 2010\Projects\IMS in Ms Access using csharp\IMS in Ms Access using csharp\obj\x86\Debug\RdlCompile.compiled
